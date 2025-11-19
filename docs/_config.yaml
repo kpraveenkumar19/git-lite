@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: git-lite
+
+- name: Configure GitHub Pages
+  uses: actions/configure-pages@v5.0.0
