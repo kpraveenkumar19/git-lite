@@ -1,2 +1,4 @@
-title : "git-lite"
-theme : jekyll-theme-minimal
+title: git-lite
+description: 
+remote_theme: mmistakes/minimal-mistakes
+
