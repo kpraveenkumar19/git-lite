@@ -1,4 +1,5 @@
 title: "git-lite"
 description: ""
-url: "https://kpraveenkumar19.github.io/git-lite/"
 theme: just-the-docs
+plugins:
+  - jekyll-remote-theme
