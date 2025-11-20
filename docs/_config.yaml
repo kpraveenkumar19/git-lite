@@ -1,4 +1,2 @@
-title: "git-lite"
-theme: just-the-docs
-plugins:
-  - jekyll-remote-theme
+title : "git-lite"
+theme : jekyll-theme-minimal
